@@ -2,6 +2,7 @@ fileTypes: [
   "rsc"
 ]
 name: "RouterOS Script"
+scopeName: "source.routeros"
 patterns: [
   {
     match: "\\b(if|else|for|foreach|do|while)\\b"
