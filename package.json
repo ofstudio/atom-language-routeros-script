@@ -1,0 +1,25 @@
+{
+  "name": "language-routeros-script",
+  "version": "0.0.1",
+  "description": "MikroTik RouterOS script language support in Atom",
+  "keywords": [
+    "routeros",
+    "mikrotik"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofstudio/atom-language-routeros-script.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ofstudio/atom-language-routeros-script/issues"
+  },
+  "author": {
+    "name": "Oleg Fomin",
+    "email": "ofstudio@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {}
+}
