@@ -1,6 +1,6 @@
 {
   "name": "language-routeros-script",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "MikroTik RouterOS script language support in Atom",
   "keywords": [
     "routeros",
