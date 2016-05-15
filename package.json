@@ -6,6 +6,7 @@
     "routeros",
     "mikrotik"
   ],
+  "homepage": "https://atom.io/packages/language-routeros-script",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ofstudio/atom-language-routeros-script.git"
